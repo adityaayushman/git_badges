@@ -1,2 +1,2 @@
 # git_badges
-HI,,,/
+HI,,
